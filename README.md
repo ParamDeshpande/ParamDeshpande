@@ -18,7 +18,7 @@
 _(best view in darkmode)_
 
 [![ParamDeshpande's github stats][github-stats-url]](https://github.com/ParamDeshpande/ParamDeshpande)
-[![Top Langs][top-langs-url]](https://github.com/iDoka/)
+[![Top Langs][top-langs-url]](https://github.com/ParamDeshpande/)
 
 
 [github-url]:https://github.com/ParamDeshpande
