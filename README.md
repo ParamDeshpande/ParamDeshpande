@@ -8,11 +8,11 @@
 
 
 - :telescope:  I'm currently working as an automotive embedded systems engineer integrating vehicle gateways and multivac comms.
-- :seedling: I'm currently learning programming µC on Embedded Systems
-- :dancers: I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
-- :speech_balloon: Ask me about FPGA and ASIC design or any Hardware related stuff
+- :seedling: I'm currently learning & getting started with rust for embedded systems. 
+- :dancers: I'm looking to collaborate on challenging project (mostly in autonomous driving and embedded systems)
+- :speech_balloon: Ask me about mcus, robotics, cars and quads.
 - :mailbox: How to reach me: [Telegram][Phone-number]|[Github][github-url]
-- :zap: Fun fact: Linux big fan and iDevices ambassador at the same time
+- :zap: Fun fact: Ambidextrous and a guitarist. 
 
 #### My Github stats
 _(best view in darkmode)_
