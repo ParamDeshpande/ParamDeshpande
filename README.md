@@ -1,5 +1,45 @@
 ### Hi there 👋
 
+
+[![Website][website-shield]][website-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter: ParamDeshpande][twitter-shield]][twitter-url]
+![visitors badge][visitors-url]
+
+
+- :telescope:  I'm currently working as an automotive embedded systems engineer integrating vehicle gateways and multivac comms.
+- :seedling: I'm currently learning programming µC on Embedded Systems
+- :dancers: I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
+- :speech_balloon: Ask me about FPGA and ASIC design or any Hardware related stuff
+- :mailbox: How to reach me: [Telegram][Phone-number]|[Github][github-url]
+- :zap: Fun fact: Linux big fan and iDevices ambassador at the same time
+
+#### My Github stats
+_(best view in darkmode)_
+
+[![ParamDeshpande's github stats][github-stats-url]](https://github.com/ParamDeshpande/ParamDeshpande)
+[![Top Langs][top-langs-url]](https://github.com/iDoka/)
+
+
+[github-url]:https://github.com/ParamDeshpande
+
+[website-shield]:https://img.shields.io/badge/website-paramdeshpande.github.io-26aa13
+[website-url]:www.paramdeshpande.github.io
+
+[linkedin-shield]: https://img.shields.io/badge/-ParamDeshpande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/param-deshpande-743690148/
+[linkedin-url]: https://linkedin.com/in/param-deshpande-743690148/
+
+[twitter-shield]: https://img.shields.io/twitter/follow/ParamDeshpande?style=social
+[twitter-url]: https://twitter.com/ParamDeshpande
+
+[visitors-url]: https://komarev.com/ghpvc/?username=ParamDeshpande&label=Visits&color=blueviolet&style=flat-square
+
+[github-stats-url]: https://github-readme-stats.vercel.app/api?username=ParamDeshpande&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark
+
+[top-langs-url]: https://github-readme-stats.vercel.app/api/top-langs/?username=ParamDeshpande&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=chartreuse-dark
+
+[Phone-number]: +919967494836
+
 <!--
 **ParamDeshpande/ParamDeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
