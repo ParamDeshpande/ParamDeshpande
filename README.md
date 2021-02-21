@@ -12,7 +12,7 @@
 - :dancers: I'm looking to collaborate on challenging project (mostly in autonomous driving and embedded systems)
 - :speech_balloon: Ask me about mcus, robotics, cars and quads.
 - :mailbox: How to reach me: [Telegram][Phone-number]|[Github][github-url]
-- :zap: Fun fact: Ambidextrous and a guitarist. 
+- :zap: Fun fact: Ambidextrous guitarist. 
 
 #### My Github stats
 _(best view in darkmode)_
