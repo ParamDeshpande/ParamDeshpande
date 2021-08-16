@@ -24,7 +24,7 @@ _(best view in darkmode)_
 [github-url]:https://github.com/ParamDeshpande
 
 [website-shield]:https://img.shields.io/badge/website-paramdeshpande.github.io-26aa13
-[website-url]:www.paramdeshpande.github.io
+[website-url]:www.paramdeshpande.com
 
 [linkedin-shield]: https://img.shields.io/badge/-ParamDeshpande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/param-deshpande-743690148/
 [linkedin-url]: https://linkedin.com/in/param-deshpande-743690148/
